@@ -1,2 +1,2 @@
-console.log("parastoo")
-console.log(bahretinaaaaaaaa);
+console.log(" salam parastoo")
+console.log("bahretina");
