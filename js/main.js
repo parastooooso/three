@@ -1,2 +1,2 @@
 console.log("parastoo")
-console.log(bahretina);
+console.log(bahretinaaaaaaaa);
